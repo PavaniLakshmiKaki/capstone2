@@ -101,14 +101,15 @@ hr {
 
 }
 
-.skillsh2{
+.skillsh2 {
     color: #66bfbf;
     margin-left: 550px;
     font-size: 2.5rem;
     font-family: "Montserrat", sans-serif;
     font-weight: normal;
- 
+
 }
+
 /* .skills{
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -139,7 +140,7 @@ hr {
     margin-right: 850px;
     padding: 0px;
 } */
-.parent{
+.parent {
     color: #40514e;
     font-family: "Merriweather", serif;
     display: grid;
@@ -150,13 +151,18 @@ hr {
     text-align: left;
     row-gap: 2rem;
 }
-.coding, .hot-wings{
+
+.coding,
+.hot-wings {
     margin-left: 20px;
 }
-.coding h3, .hot-wings h3{
+
+.coding h3,
+.hot-wings h3 {
     color: #66bfbf;
 }
-.contact{
+
+.contact {
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -165,20 +171,24 @@ hr {
     flex-grow: 1;
     flex-shrink: 1;
 }
-.touch{
-color: #66bfbf;
-font-family: "Montserrat", sans-serif;
+
+.touch {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
 }
-.conth3{
+
+.conth3 {
     color: #11999e;
     font-family: "Montserrat", sans-serif;
 }
-.contp{
+
+.contp {
     width: 30%;
     margin: 0px auto 20px;
 }
-.contactbut{
-    width: 15%;
+
+.contactbut {
+    width: 12%;
     background-color: #11999e;
     color: white;
     font-size: 20px;
@@ -186,36 +196,45 @@ font-family: "Montserrat", sans-serif;
     border-radius: 14px;
     font-family: "Montserrat", sans-serif;
     opacity: 0.7;
+    text-decoration: none;
+
 
 }
-.contactbut:hover{
+
+.contactbut:hover {
     background-color: #30e3cb;
 }
-.footer{
+
+.footer {
     width: 100%;
     background-color: #6cbcbf;
-margin-top: 80px;
-height:150px;
+    margin-top: 80px;
+    height: 150px;
 }
-ul{
-text-align: center;
-padding-top: 40px;
+
+ul {
+    text-align: center;
+    padding-top: 40px;
 
 }
-ul li{
+
+ul li {
     display: inline;
 }
-li a{
+
+li a {
     text-decoration: none;
     color: #2a787a;
     padding: 30px;
     font-size: 17px;
 
 }
-li a:hover{
+
+li a:hover {
     color: white;
 }
-.footer p{
+
+.footer p {
     text-align: center;
     margin-top: 40px;
     font-size: 12px;
